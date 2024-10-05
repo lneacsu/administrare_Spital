@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Boli>
+    <codBoala>B1   </codBoala>
+    <numeBoala>Pneumonie</numeBoala>
+    <durataInternare>10</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B10  </codBoala>
+    <numeBoala>Cancerul esofagian</numeBoala>
+  </Boli>
+  <Boli>
+    <codBoala>B11  </codBoala>
+    <numeBoala>Viroza pulmonara</numeBoala>
+    <durataInternare>5</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B12  </codBoala>
+    <numeBoala>Arsuri de gradul 2</numeBoala>
+    <durataInternare>15</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B13  </codBoala>
+    <numeBoala>Nevralgie Intercostala</numeBoala>
+    <durataInternare>2</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B14  </codBoala>
+    <numeBoala>Prostata</numeBoala>
+    <durataInternare>4</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B15  </codBoala>
+    <numeBoala>Osteoporoza</numeBoala>
+    <durataInternare>2</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B2   </codBoala>
+    <numeBoala>Fractura</numeBoala>
+    <durataInternare>15</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B3   </codBoala>
+    <numeBoala>Gripa</numeBoala>
+    <durataInternare>4</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B4   </codBoala>
+    <numeBoala>Gastrita</numeBoala>
+    <durataInternare>8</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B5   </codBoala>
+    <numeBoala>Sinuzita</numeBoala>
+    <durataInternare>7</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B6   </codBoala>
+    <numeBoala>Sarcina</numeBoala>
+    <durataInternare>8</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B7   </codBoala>
+    <numeBoala>Diabet</numeBoala>
+    <durataInternare>5</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B8   </codBoala>
+    <numeBoala>Accident vascular cerebral</numeBoala>
+    <durataInternare>24</durataInternare>
+  </Boli>
+  <Boli>
+    <codBoala>B9   </codBoala>
+    <numeBoala>Cancerul de col uterin</numeBoala>
+  </Boli>
+</NewDataSet>

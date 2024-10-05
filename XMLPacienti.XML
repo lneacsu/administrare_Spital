@@ -1,0 +1,305 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Pacienti>
+    <CNP>1850412422567</CNP>
+    <codPacient>P1   </codPacient>
+    <Nume_x0020_Pacient>Must  Grigore</Nume_x0020_Pacient>
+    <codBoala>B2   </codBoala>
+    <numeBoala>Fractura</numeBoala>
+    <codMedic>M1 </codMedic>
+    <Nume_x0020_Medic>Patrascu  Mariana</Nume_x0020_Medic>
+    <durataInternare>15</durataInternare>
+    <dataNasterii>1985-04-12T00:00:00+03:00</dataNasterii>
+    <greutate>100</greutate>
+    <specializare>ortopedie</specializare>
+    <Total_x0020_Plata>3900</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1930502103999</CNP>
+    <codPacient>P10  </codPacient>
+    <Nume_x0020_Pacient>Filip  Ana</Nume_x0020_Pacient>
+    <codBoala>B6   </codBoala>
+    <numeBoala>Sarcina</numeBoala>
+    <codMedic>M3 </codMedic>
+    <Nume_x0020_Medic>Popescu  Ramona</Nume_x0020_Medic>
+    <durataInternare>8</durataInternare>
+    <dataNasterii>1993-05-02T00:00:00+03:00</dataNasterii>
+    <greutate>70</greutate>
+    <specializare>pediatrie</specializare>
+    <Total_x0020_Plata>2080</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1920328331453</CNP>
+    <codPacient>P11  </codPacient>
+    <Nume_x0020_Pacient>Badea  Ion</Nume_x0020_Pacient>
+    <codBoala>B7   </codBoala>
+    <numeBoala>Diabet</numeBoala>
+    <codMedic>M4 </codMedic>
+    <Nume_x0020_Medic>Slavila  Silvia</Nume_x0020_Medic>
+    <durataInternare>5</durataInternare>
+    <dataNasterii>1992-03-28T00:00:00+02:00</dataNasterii>
+    <greutate>150</greutate>
+    <specializare>boli metabolice</specializare>
+    <Total_x0020_Plata>1300</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2891012055602</CNP>
+    <codPacient>P12  </codPacient>
+    <Nume_x0020_Pacient>Pirvu  Floarea</Nume_x0020_Pacient>
+    <codBoala>B8   </codBoala>
+    <numeBoala>Accident vascular cerebral</numeBoala>
+    <codMedic>M6 </codMedic>
+    <Nume_x0020_Medic>Duta   Stefan</Nume_x0020_Medic>
+    <durataInternare>24</durataInternare>
+    <dataNasterii>1989-10-12T00:00:00+03:00</dataNasterii>
+    <greutate>70</greutate>
+    <specializare>cardiologie</specializare>
+    <Total_x0020_Plata>6240</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2830112103980</CNP>
+    <codPacient>P13  </codPacient>
+    <Nume_x0020_Pacient>Ghita  Andreea</Nume_x0020_Pacient>
+    <codBoala>B9   </codBoala>
+    <numeBoala>Cancerul de col uterin</numeBoala>
+    <codMedic>M2 </codMedic>
+    <Nume_x0020_Medic>Mircea   Vlad</Nume_x0020_Medic>
+    <dataNasterii>1983-01-12T00:00:00+02:00</dataNasterii>
+    <greutate>57</greutate>
+    <specializare>chirurgie</specializare>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1690305803200</CNP>
+    <codPacient>P14  </codPacient>
+    <Nume_x0020_Pacient>Lunca  Ilie</Nume_x0020_Pacient>
+    <codBoala>B10  </codBoala>
+    <numeBoala>Cancerul esofagian</numeBoala>
+    <codMedic>M2 </codMedic>
+    <Nume_x0020_Medic>Mircea   Vlad</Nume_x0020_Medic>
+    <dataNasterii>1969-03-05T00:00:00+02:00</dataNasterii>
+    <greutate>88</greutate>
+    <specializare>chirurgie</specializare>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1970901212353</CNP>
+    <codPacient>P15  </codPacient>
+    <Nume_x0020_Pacient>Popescu   Ionut</Nume_x0020_Pacient>
+    <codBoala>B10  </codBoala>
+    <numeBoala>Cancerul esofagian</numeBoala>
+    <codMedic>M2 </codMedic>
+    <Nume_x0020_Medic>Mircea   Vlad</Nume_x0020_Medic>
+    <dataNasterii>1997-09-01T00:00:00+03:00</dataNasterii>
+    <greutate>75</greutate>
+    <specializare>chirurgie</specializare>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1750917428867</CNP>
+    <codPacient>P16  </codPacient>
+    <Nume_x0020_Pacient>Mircea  Silviu</Nume_x0020_Pacient>
+    <codBoala>B1   </codBoala>
+    <numeBoala>Pneumonie</numeBoala>
+    <codMedic>M10</codMedic>
+    <Nume_x0020_Medic>Bica  Monica</Nume_x0020_Medic>
+    <durataInternare>10</durataInternare>
+    <dataNasterii>1975-09-17T00:00:00+03:00</dataNasterii>
+    <greutate>89.4</greutate>
+    <specializare>ORL</specializare>
+    <Total_x0020_Plata>2600</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2671019312349</CNP>
+    <codPacient>P17  </codPacient>
+    <Nume_x0020_Pacient>Ilie  Monica</Nume_x0020_Pacient>
+    <codBoala>B2   </codBoala>
+    <numeBoala>Fractura</numeBoala>
+    <codMedic>M1 </codMedic>
+    <Nume_x0020_Medic>Patrascu  Mariana</Nume_x0020_Medic>
+    <durataInternare>15</durataInternare>
+    <dataNasterii>1967-10-19T00:00:00+03:00</dataNasterii>
+    <greutate>72</greutate>
+    <specializare>ortopedie</specializare>
+    <Total_x0020_Plata>3900</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2920101576940</CNP>
+    <codPacient>P18  </codPacient>
+    <Nume_x0020_Pacient>Dinca  Larisa</Nume_x0020_Pacient>
+    <codBoala>B4   </codBoala>
+    <numeBoala>Gastrita</numeBoala>
+    <codMedic>M7 </codMedic>
+    <Nume_x0020_Medic>Mustata   George</Nume_x0020_Medic>
+    <durataInternare>8</durataInternare>
+    <dataNasterii>1992-01-01T00:00:00+02:00</dataNasterii>
+    <greutate>60</greutate>
+    <specializare>endocrinologie</specializare>
+    <Total_x0020_Plata>2080</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1800311038205</CNP>
+    <codPacient>P19  </codPacient>
+    <Nume_x0020_Pacient>Minca  George</Nume_x0020_Pacient>
+    <codBoala>B1   </codBoala>
+    <numeBoala>Pneumonie</numeBoala>
+    <codMedic>M8 </codMedic>
+    <Nume_x0020_Medic>Atena  Iuliana</Nume_x0020_Medic>
+    <durataInternare>10</durataInternare>
+    <dataNasterii>1980-03-11T00:00:00+02:00</dataNasterii>
+    <greutate>90</greutate>
+    <specializare>pediatrie</specializare>
+    <Total_x0020_Plata>2600</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2920830012030</CNP>
+    <codPacient>P2   </codPacient>
+    <Nume_x0020_Pacient>Pana  Maria</Nume_x0020_Pacient>
+    <codBoala>B7   </codBoala>
+    <numeBoala>Diabet</numeBoala>
+    <codMedic>M11</codMedic>
+    <Nume_x0020_Medic>Popescu  Ionut</Nume_x0020_Medic>
+    <durataInternare>5</durataInternare>
+    <dataNasterii>1992-08-30T00:00:00+03:00</dataNasterii>
+    <greutate>130</greutate>
+    <specializare>Nutritie</specializare>
+    <Total_x0020_Plata>1300</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1500502497799</CNP>
+    <codPacient>P20  </codPacient>
+    <Nume_x0020_Pacient>Badea  Ionut</Nume_x0020_Pacient>
+    <codBoala>B8   </codBoala>
+    <numeBoala>Accident vascular cerebral</numeBoala>
+    <codMedic>M6 </codMedic>
+    <Nume_x0020_Medic>Duta   Stefan</Nume_x0020_Medic>
+    <durataInternare>24</durataInternare>
+    <dataNasterii>1950-05-02T00:00:00+03:00</dataNasterii>
+    <greutate>98</greutate>
+    <specializare>cardiologie</specializare>
+    <Total_x0020_Plata>4800</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2500521759702</CNP>
+    <codPacient>P21  </codPacient>
+    <Nume_x0020_Pacient>Lisca  Florina</Nume_x0020_Pacient>
+    <codBoala>B2   </codBoala>
+    <numeBoala>Fractura</numeBoala>
+    <codMedic>M1 </codMedic>
+    <Nume_x0020_Medic>Patrascu  Mariana</Nume_x0020_Medic>
+    <durataInternare>15</durataInternare>
+    <dataNasterii>1950-05-21T00:00:00+03:00</dataNasterii>
+    <greutate>87</greutate>
+    <specializare>ortopedie</specializare>
+    <Total_x0020_Plata>3000</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2951221365318</CNP>
+    <codPacient>P29  </codPacient>
+    <Nume_x0020_Pacient>Pirvu  Adela</Nume_x0020_Pacient>
+    <codBoala>B3   </codBoala>
+    <numeBoala>Gripa</numeBoala>
+    <codMedic>M9 </codMedic>
+    <Nume_x0020_Medic>Neacsu  Victor</Nume_x0020_Medic>
+    <durataInternare>4</durataInternare>
+    <dataNasterii>1995-12-21T00:00:00+02:00</dataNasterii>
+    <greutate>65</greutate>
+    <specializare>homeopatie</specializare>
+    <Total_x0020_Plata>1040</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1901109372453</CNP>
+    <codPacient>P3   </codPacient>
+    <Nume_x0020_Pacient>Grigore  Mihai</Nume_x0020_Pacient>
+    <codBoala>B5   </codBoala>
+    <numeBoala>Sinuzita</numeBoala>
+    <codMedic>M10</codMedic>
+    <Nume_x0020_Medic>Bica  Monica</Nume_x0020_Medic>
+    <durataInternare>7</durataInternare>
+    <dataNasterii>1990-11-09T00:00:00+02:00</dataNasterii>
+    <greutate>89.6</greutate>
+    <specializare>ORL</specializare>
+    <Total_x0020_Plata>1820</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1901119063169</CNP>
+    <codPacient>P4   </codPacient>
+    <Nume_x0020_Pacient>Mihalache  Florin</Nume_x0020_Pacient>
+    <codBoala>B8   </codBoala>
+    <numeBoala>Accident vascular cerebral</numeBoala>
+    <codMedic>M6 </codMedic>
+    <Nume_x0020_Medic>Duta   Stefan</Nume_x0020_Medic>
+    <durataInternare>24</durataInternare>
+    <dataNasterii>1990-11-19T00:00:00+02:00</dataNasterii>
+    <greutate>81</greutate>
+    <specializare>cardiologie</specializare>
+    <Total_x0020_Plata>6240</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2990801238953</CNP>
+    <codPacient>P5   </codPacient>
+    <Nume_x0020_Pacient>Tudor  Cristina</Nume_x0020_Pacient>
+    <codBoala>B1   </codBoala>
+    <numeBoala>Pneumonie</numeBoala>
+    <codMedic>M3 </codMedic>
+    <Nume_x0020_Medic>Popescu  Ramona</Nume_x0020_Medic>
+    <durataInternare>10</durataInternare>
+    <dataNasterii>1999-08-01T00:00:00+03:00</dataNasterii>
+    <greutate>60</greutate>
+    <specializare>pediatrie</specializare>
+    <Total_x0020_Plata>2600</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1850126336642</CNP>
+    <codPacient>P6   </codPacient>
+    <Nume_x0020_Pacient>Lisca   Grigore</Nume_x0020_Pacient>
+    <codBoala>B4   </codBoala>
+    <numeBoala>Gastrita</numeBoala>
+    <codMedic>M4 </codMedic>
+    <Nume_x0020_Medic>Slavila  Silvia</Nume_x0020_Medic>
+    <durataInternare>8</durataInternare>
+    <dataNasterii>1985-01-26T00:00:00+02:00</dataNasterii>
+    <greutate>92</greutate>
+    <specializare>boli metabolice</specializare>
+    <Total_x0020_Plata>2080</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>1811012055672</CNP>
+    <codPacient>P7   </codPacient>
+    <Nume_x0020_Pacient>Popescu  Ion</Nume_x0020_Pacient>
+    <codBoala>B5   </codBoala>
+    <numeBoala>Sinuzita</numeBoala>
+    <codMedic>M10</codMedic>
+    <Nume_x0020_Medic>Bica  Monica</Nume_x0020_Medic>
+    <durataInternare>7</durataInternare>
+    <dataNasterii>1981-10-12T00:00:00+03:00</dataNasterii>
+    <greutate>74</greutate>
+    <specializare>ORL</specializare>
+    <Total_x0020_Plata>1820</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2880930146221</CNP>
+    <codPacient>P8   </codPacient>
+    <Nume_x0020_Pacient>Ionescu  Maria</Nume_x0020_Pacient>
+    <codBoala>B6   </codBoala>
+    <numeBoala>Sarcina</numeBoala>
+    <codMedic>M5 </codMedic>
+    <Nume_x0020_Medic>Mihalache  Bianca</Nume_x0020_Medic>
+    <durataInternare>8</durataInternare>
+    <dataNasterii>1988-09-30T00:00:00+03:00</dataNasterii>
+    <greutate>75</greutate>
+    <specializare>ginecologie</specializare>
+    <Total_x0020_Plata>2080</Total_x0020_Plata>
+  </Pacienti>
+  <Pacienti>
+    <CNP>2971019351849</CNP>
+    <codPacient>P9   </codPacient>
+    <Nume_x0020_Pacient>Enescu  Georgiana</Nume_x0020_Pacient>
+    <codBoala>B2   </codBoala>
+    <numeBoala>Fractura</numeBoala>
+    <codMedic>M1 </codMedic>
+    <Nume_x0020_Medic>Patrascu  Mariana</Nume_x0020_Medic>
+    <durataInternare>15</durataInternare>
+    <dataNasterii>1997-10-19T00:00:00+03:00</dataNasterii>
+    <greutate>55</greutate>
+    <specializare>ortopedie</specializare>
+    <Total_x0020_Plata>3900</Total_x0020_Plata>
+  </Pacienti>
+</NewDataSet>

@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Bonuri>
+    <codBon>39</codBon>
+    <pret>260</pret>
+    <CNP>1750917428867</CNP>
+    <codBoala>B1   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>42</codBon>
+    <pret>260</pret>
+    <CNP>1850126336642</CNP>
+    <codBoala>B4   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>46</codBon>
+    <pret>260</pret>
+    <CNP>1920328331453</CNP>
+    <codBoala>B7   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>49</codBon>
+    <pret>260</pret>
+    <CNP>2671019312349</CNP>
+    <codBoala>B2   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>50</codBon>
+    <pret>260</pret>
+    <CNP>2830112103980</CNP>
+    <codBoala>B9   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>51</codBon>
+    <pret>260</pret>
+    <CNP>2880930146221</CNP>
+    <codBoala>B6   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>52</codBon>
+    <pret>260</pret>
+    <CNP>2891012055602</CNP>
+    <codBoala>B8   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>53</codBon>
+    <pret>260</pret>
+    <CNP>2920101576940</CNP>
+    <codBoala>B4   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>54</codBon>
+    <pret>260</pret>
+    <CNP>2920830012030</CNP>
+    <codBoala>B7   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>55</codBon>
+    <pret>260</pret>
+    <CNP>2971019351849</CNP>
+    <codBoala>B2   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>56</codBon>
+    <pret>260</pret>
+    <CNP>2990801238953</CNP>
+    <codBoala>B1   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>59</codBon>
+    <pret>200</pret>
+    <CNP>1500502497799</CNP>
+    <codBoala>B8   </codBoala>
+  </Bonuri>
+  <Bonuri>
+    <codBon>60</codBon>
+    <pret>200</pret>
+    <CNP>2500521759702</CNP>
+    <codBoala>B2   </codBoala>
+  </Bonuri>
+</NewDataSet>

@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Medici>
+    <codMedic>M1 </codMedic>
+    <numeMedic>Patrascu</numeMedic>
+    <prenumeMedic>Mariana</prenumeMedic>
+    <specializare>ortopedie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M10</codMedic>
+    <numeMedic>Bica</numeMedic>
+    <prenumeMedic>Monica</prenumeMedic>
+    <specializare>ORL</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M11</codMedic>
+    <numeMedic>Popescu</numeMedic>
+    <prenumeMedic>Ionut</prenumeMedic>
+    <specializare>Nutritie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M12</codMedic>
+    <numeMedic>Ilie</numeMedic>
+    <prenumeMedic>Simona</prenumeMedic>
+    <specializare>ORL</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M13</codMedic>
+    <numeMedic>Maria</numeMedic>
+    <prenumeMedic>Adrian</prenumeMedic>
+    <specializare>cardiologie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M14</codMedic>
+    <numeMedic>Dinca</numeMedic>
+    <prenumeMedic>Ramona</prenumeMedic>
+    <specializare>pediatrie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M15</codMedic>
+    <numeMedic>Stancu</numeMedic>
+    <prenumeMedic>Alina</prenumeMedic>
+    <specializare>ginecologie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M2 </codMedic>
+    <numeMedic>Mircea </numeMedic>
+    <prenumeMedic>Vlad</prenumeMedic>
+    <specializare>chirurgie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M3 </codMedic>
+    <numeMedic>Popescu</numeMedic>
+    <prenumeMedic>Ramona</prenumeMedic>
+    <specializare>pediatrie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M4 </codMedic>
+    <numeMedic>Slavila</numeMedic>
+    <prenumeMedic>Silvia</prenumeMedic>
+    <specializare>boli metabolice</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M5 </codMedic>
+    <numeMedic>Mihalache</numeMedic>
+    <prenumeMedic>Bianca</prenumeMedic>
+    <specializare>ginecologie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M6 </codMedic>
+    <numeMedic>Duta </numeMedic>
+    <prenumeMedic>Stefan</prenumeMedic>
+    <specializare>cardiologie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M7 </codMedic>
+    <numeMedic>Mustata </numeMedic>
+    <prenumeMedic>George</prenumeMedic>
+    <specializare>endocrinologie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M8 </codMedic>
+    <numeMedic>Atena</numeMedic>
+    <prenumeMedic>Iuliana</prenumeMedic>
+    <specializare>pediatrie</specializare>
+  </Medici>
+  <Medici>
+    <codMedic>M9 </codMedic>
+    <numeMedic>Neacsu</numeMedic>
+    <prenumeMedic>Victor</prenumeMedic>
+    <specializare>homeopatie</specializare>
+  </Medici>
+</NewDataSet>

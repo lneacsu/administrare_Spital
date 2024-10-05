@@ -1,0 +1,88 @@
+D:\C#\Spital\Spital\bin\Debug\Spital.exe.config
+D:\C#\Spital\Spital\bin\Debug\Spital.exe
+D:\C#\Spital\Spital\bin\Debug\Spital.pdb
+D:\C#\Spital\Spital\obj\Debug\Spital.Form1.resources
+D:\C#\Spital\Spital\obj\Debug\Spital.Properties.Resources.resources
+D:\C#\Spital\Spital\obj\Debug\Spital.csproj.GenerateResource.Cache
+D:\C#\Spital\Spital\obj\Debug\Spital.exe
+D:\C#\Spital\Spital\obj\Debug\Spital.pdb
+D:\C#\Spital\Spital\obj\Debug\Spital.Form3.resources
+D:\C#\Spital\Spital\obj\Debug\Spital.Form4.resources
+D:\C#\Spital\Spital\obj\Debug\Spital.Form5.resources
+D:\C#\Spital\Spital\obj\Debug\Spital.FrmAdaugMedici.resources
+D:\C#\Spital\Spital\obj\Debug\Spital.FrmActualizareMedici.resources
+D:\C#\Spital\Spital\obj\Debug\Spital.FrmActualizarePacienti.resources
+D:\C#\Spital\Spital\obj\Debug\Spital.SplashScreen.resources
+D:\C#\Spital\Spital\bin\Debug\CircularProgressBar.dll
+D:\C#\Spital\Spital\bin\Debug\WinFormAnimation.dll
+D:\C#\Spital\Spital\bin\Debug\CircularProgressBar.xml
+D:\C#\Spital\Spital\bin\Debug\WinFormAnimation.xml
+D:\C#\Spital\Spital\obj\Debug\Spital.csprojResolveAssemblyReference.cache
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\bin\Debug\Spital.exe.config
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\bin\Debug\Spital.exe
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\bin\Debug\Spital.pdb
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\bin\Debug\CircularProgressBar.dll
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\bin\Debug\WinFormAnimation.dll
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\bin\Debug\WinFormAnimation.xml
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.csprojResolveAssemblyReference.cache
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.Form1.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmActualizareMedici.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmActualizarePacienti.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.Properties.Resources.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.SplashScreen.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.csproj.GenerateResource.Cache
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.exe
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.pdb
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmDepartamente.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmAdaugarePacienti.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmAdaugareBoli.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmVizualizareMedici.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmStatistici.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmExport.resources
+D:\FACULTATE\ANUL 2\C#\Spital\Spital\obj\Debug\Spital.FrmImport.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\bin\Debug\Spital.exe.config
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\bin\Debug\Spital.exe
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\bin\Debug\Spital.pdb
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\bin\Debug\CircularProgressBar.dll
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\bin\Debug\WinFormAnimation.dll
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\bin\Debug\WinFormAnimation.xml
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.csprojAssemblyReference.cache
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.Form1.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.FrmActualizareMedici.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.FrmActualizarePacienti.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.FrmAdaugarePacienti.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.FrmAdaugareBoli.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.FrmStatistici.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.FrmVizualizareMedici.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.FrmDepartamente.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.Properties.Resources.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.SplashScreen.resources
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.csproj.GenerateResource.cache
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.csproj.CoreCompileInputs.cache
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.csproj.CopyComplete
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.exe
+C:\Users\Loredana\Desktop\Spital dodopan\Spital\obj\Debug\Spital.pdb
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\bin\Debug\Spital.exe.config
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\bin\Debug\Spital.exe
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\bin\Debug\Spital.pdb
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\bin\Debug\nunit.framework.dll
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\bin\Debug\WinFormAnimation.dll
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\bin\Debug\nunit.framework.pdb
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\bin\Debug\nunit.framework.xml
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\bin\Debug\WinFormAnimation.xml
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.csprojAssemblyReference.cache
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.Form1.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.FrmActualizareMedici.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.FrmActualizarePacienti.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.FrmAdaugarePacienti.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.FrmAdaugareBoli.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.FrmStatistici.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.FrmVizualizareMedici.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.FrmDepartamente.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.Properties.Resources.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.SplashScreen.resources
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.csproj.GenerateResource.cache
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.csproj.CoreCompileInputs.cache
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.csproj.CopyComplete
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.exe
+D:\FACULTATE\ANUL 3\SEMESTRUL I\PROIECT IS\Spital\Spital\obj\Debug\Spital.pdb
